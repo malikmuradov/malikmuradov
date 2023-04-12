@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Malik.
+- 👀 I’m interested in real life implementations of applications.
+- 🌱 I’m currently learning Java, API, QA.
+- 💞️ I’m looking to collaborate on any project that I can learn from and pay my bills at the same time.
+- 📫 How to reach me. Text or Call +1-587-500-6640 or email at malikmuradov@gmail.com
